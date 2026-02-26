@@ -1,6 +1,4 @@
 "use client";
-
-import ReactMarkdown from "react-markdown";
 import { CheckSquare, AlertTriangle, BookOpen, Link } from "lucide-react";
 
 export default function BriefResult({ brief, sources }) {
