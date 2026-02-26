@@ -9,9 +9,19 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "axios": "^1.13.5",
+    "cheerio": "^1.2.0",
+    "clsx": "^2.1.1",
+    "groq-sdk": "^0.37.0",
+    "jsdom": "^28.1.0",
+    "lucide-react": "^0.575.0",
+    "mongoose": "^9.2.2",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-markdown": "^10.1.0",
+    "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
