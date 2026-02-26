@@ -63,6 +63,4 @@ Real-time chat platform using Socket.IO, JWT auth, PWA support, and secure file 
 
 ## 📄 More Details
 
-For a detailed breakdown of my experience, project impact, and technical depth, please check my resume on **Wellfound**:
-View My Wellfound Profile Please.
-Thank you
+For a detailed breakdown of my experience, project impact, and technical depth, please check my resume on **Wellfound**.
